@@ -56,6 +56,8 @@ group :development, :test do
   gem 'quiet_assets'
   # 優化 console 顯示
   gem 'awesome_print'
+  # Find n + 1 querys
+  gem 'bullet'
 end
 
 group :test do
