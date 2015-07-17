@@ -15,3 +15,12 @@
 /log/*
 !/log/.keep
 /tmp
+
+# Ignore local rvm ruby version and gemset
+/.ruby-gemset
+/.ruby-version
+
+# Ignore sensitive info
+/config/*.yml
+/config/database.yml
+/config/secrets.yml
