@@ -12,5 +12,15 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require jquery.superfish
+//= require jquery.bxslider
+//= require bootstrap
+//= require jquery.nicescroll.min
+//= require jquery.isotope.min
+//= require jquery.imagesloaded.min
+//= require jquery.themepunch.tools.min
+//= require jquery.themepunch.revolution.min
+//= require script
+//= require pages
 //= require turbolinks
 //= require_tree .
